@@ -1,0 +1,5 @@
+python-xstatic-jsencrypt (2.0.0.2-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Thomas Goirand <zigo@debian.org>  Fri, 15 Aug 2014 16:57:45 +0800
