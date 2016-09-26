@@ -13,8 +13,8 @@ Build-Depends: debhelper (>= 9),
                python3-setuptools
 Build-Conflicts: python-xstatic, python3-xstatic
 Standards-Version: 3.9.5
-Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-xstatic-jsencrypt.git/
-Vcs-Git: https://anonscm.debian.org/git/openstack/python-xstatic-jsencrypt.git
+Vcs-Browser: https://git.openstack.org/cgit/openstack/deb-python-xstatic-jsencrypt?h=debian%2Fnewton
+Vcs-Git: https://git.openstack.org/openstack/deb-python-xstatic-jsencrypt -b debian/newton
 Homepage: http://travistidwell.com/jsencrypt/
 
 Package: python-xstatic-jsencrypt
